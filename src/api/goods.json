@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Lemon",
+    "img": "https://edaplus.info/food_pictures/155/lemon.jpg",
+    "price": 45,
+    "description": "The lemon (Citrus limon) is a species of small evergreen tree in the flowering plant family Rutaceae"
+  },
+  {
+    "id": 2,
+    "name": "Kiwifruit",
+    "img": "https://edaplus.info/food_pictures/155/kiwi.jpg",
+    "price": 92,
+    "description": "Kiwifruit (commonly shortened to kiwi in North America) or Chinese gooseberry is the edible berry of several species of woody vines in the genus Actinidia."
+  },
+  {
+    "id": 3,
+    "name": "Banana",
+    "img": "https://edaplus.info/food_pictures/155/banana.jpg",
+    "price": 104,
+    "description": "A banana is an elongated, edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa"
+  },
+  {
+    "id": 4,
+    "name": "Banana",
+    "img": "https://edaplus.info/food_pictures/155/banana.jpg",
+    "price": 104,
+    "description": "A banana is an elongated, edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa"
+  },
+  {
+    "id": 5,
+    "name": "Banana",
+    "img": "https://edaplus.info/food_pictures/155/banana.jpg",
+    "price": 104,
+    "description": "A banana is an elongated, edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa"
+  },
+  {
+    "id": 6,
+    "name": "Banana",
+    "img": "https://edaplus.info/food_pictures/155/banana.jpg",
+    "price": 104,
+    "description": "A banana is an elongated, edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa"
+  },
+  {
+    "id": 7,
+    "name": "Banana",
+    "img": "https://edaplus.info/food_pictures/155/banana.jpg",
+    "price": 104,
+    "description": "A banana is an elongated, edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa"
+  },
+  {
+    "id": 8,
+    "name": "Banana",
+    "img": "https://edaplus.info/food_pictures/155/banana.jpg",
+    "price": 104,
+    "description": "A banana is an elongated, edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa"
+  },
+  {
+    "id": 9,
+    "name": "Banana",
+    "img": "https://edaplus.info/food_pictures/155/banana.jpg",
+    "price": 104,
+    "description": "A banana is an elongated, edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa"
+  }
+]
